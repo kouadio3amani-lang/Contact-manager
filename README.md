@@ -15,7 +15,7 @@ Ce projet est une application de **gestion de contact** permettant de centralise
 ## Fonctionnalités futures
 * Historique des opérations
 * Interface de connexion
-## Technologieutilisées
+## Technologie utilisées
 * Frontend : **HTML, CSS**
 * Backend : **Python**
 * Framework : **Flask**
