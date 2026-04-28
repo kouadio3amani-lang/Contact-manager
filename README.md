@@ -23,8 +23,7 @@ Ce projet est une application de **gestion de contact** permettant de centralise
 ## Installation 
 1. **Cloner le repo**
 
-     git clone https://github.comkouadio3amani-lang/Contact-manager.
-     git 
+     git clone https://github.comkouadio3amani-lang/Contact-manager.git 
 
     cd Contact-manager
 2. **Creér un environnement virtuel** 
@@ -39,9 +38,10 @@ Ce projet est une application de **gestion de contact** permettant de centralise
 3. **Intaller les dependances**
 
 pip install -r requirements.txt
-4. **Lancer l'application**
 
-python app.py
+4. **Lancer l'application**
+    python app.py
+
 5. **Pour le web**
 http://127.0.0.1:5000
 ## Utilisation
@@ -81,7 +81,7 @@ Le projet est organisé en deux parties principales :
 
 ###  Données
 - Dossier : `data/`
-- Stocke les contacts (JSON ou base de données)
+- Stocke les contacts (JSON et SQLITE)
 - Partagé entre les deux applications
 ## Licence
 Ce projet est sous licence MIT.
