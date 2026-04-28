@@ -1,7 +1,7 @@
 # ContactSpaceM
 Une application de gestion de contact
 ## Description
-Ce projet est une application de **gestion de contact** permettant de centraliser et organiser les informations personnelles des employés d'une entreprise ou autre service. Elle a pour but d'éviter la désorganisation et les pertes de données,Tout en redant plus flexible l'accès au information.
+Ce projet est une application de **gestion de contact** permettant de centraliser et organiser les informations personnelles des employés d'une entreprise ou autre service. Elle a pour but d'éviter la désorganisation et les pertes de données,Tout en rendant plus flexible l'accès au information.
 ## Implémentation futures
 * Intégration d'une interface graphique
 * Intégration de code qr
@@ -19,7 +19,7 @@ Ce projet est une application de **gestion de contact** permettant de centralise
 * Frontend : **HTML, CSS**
 * Backend : **Python**
 * Framework : **Flask**
-* Base de données : **SQLITE**
+* Base de données :**JSON (pour les test rapide) et** **SQLITE**
 ## Installation 
 1. **Cloner le repo**
 

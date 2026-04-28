@@ -1,9 +1,5 @@
 flask
 customtkinter
-sqlite
-unitest
-request
-regex
+requests
 qrcode
-os
-pathlib
+pillow
