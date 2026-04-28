@@ -31,10 +31,9 @@ Ce projet est une application de **gestion de contact** permettant de centralise
 
     *python -m venv venv*
      
-    **Activer l'environnment :**
-
+    **Activer l'environnment :**\
         **Windows:** 
-        venv\Scripts\activate   
+        venv\Scripts\activate  
         **Mac / Linux:**
         source venv/bin/activate
 3. **Intaller les dependances**
