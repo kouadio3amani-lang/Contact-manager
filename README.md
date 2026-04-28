@@ -1,7 +1,7 @@
 # ContactSpaceM
 Une application de gestion de contact
 ## Description
-Ce projet est une application de **gestion de contact** permettant de centraliser et organiser les information personelle des employés d'une entreprise ou autre service. Elle a pour but d'éviter la désorganition et les pertes de données,Tout en redant plus flexible l'accès au information.
+Ce projet est une application de **gestion de contact** permettant de centraliser et organiser les informations personnelles des employés d'une entreprise ou autre service. Elle a pour but d'éviter la désorganisation et les pertes de données,Tout en redant plus flexible l'accès au information.
 ## Implémentation futures
 * Intégration d'une interface graphique
 * Intégration de code qr
@@ -12,7 +12,7 @@ Ce projet est une application de **gestion de contact** permettant de centralise
 - **Supprimer**
 - **Voir**
 - **Rechercher**
-## Fonctionnalité future
+## Fonctionnalités futures
 * Historique des opérations
 * Interface de connexion
 ## Technoligie utilisées
@@ -21,47 +21,49 @@ Ce projet est une application de **gestion de contact** permettant de centralise
 * Framework : **Flask**
 * Base de données : **SQLITE**
 ## Installation 
-1. **Cloner le repo**\
-     *git clone https://github.com/kouadio3amani-lang/Contact-manager.git \
-    cd Contact-manager*
-2. **Creér un environnement virtuel** \
+1. **Cloner le repo**
+
+     git clone https://github.comkouadio3amani-lang/Contact-manager.
+     git 
+
+    cd Contact-manager
+2. **Creér un environnement virtuel** 
+
     *python -m venv venv*
      
-    **Activer l'environnment :**\
-        **Windows:** \
-        *venv\Scripts\activate*   
-        **Mac / Linux:**\
-        *source venv/bin/activate*
-3. **Intaller les dependances**\
-*pip install -r requirements.txt*
-4. **Lancer l'application**\
-*python app.py*
-5. **Acceder à l'application**
-*http://127.0.0.1:5000*
-## Utilisation
-1. **Acceder à l'application**
-- **Pour l'interface graphique** : *Lancer l'application*
-- **Pour la version web:**
-*http://127.0.0.1:5000*
+    **Activer l'environnment :**
 
-2. **Fonctionnement général**
+        **Windows:** 
+        venv\Scripts\activate   
+        **Mac / Linux:**
+        source venv/bin/activate
+3. **Intaller les dependances**
+
+pip install -r requirements.txt
+4. **Lancer l'application**
+
+python app.py
+5. **Pour le web**
+http://127.0.0.1:5000
+## Utilisation
+1. **Fonctionnement général**
 * Page d'acceuil
 * Formulaire
 * Liste des contacts
-3. **Ajouter un contact**
+2. **Ajouter un contact**
 - Remplir le formulaire 
 - Valider
 - Le contact apparaît dans la liste
-4. **Modifier un contact**
+3. **Modifier un contact**
 - Selectionner le contact dans la liste
 - Cliquer sur le bouton modifier
 - Changer les informations
 - Enregistrer
-5. **Supprimer un contact**
+4. **Supprimer un contact**
 - Selectionner le contact dans la liste
 - Cliquer sur le bouton supprimer
 - Le contact disparaît de la liste
-6. **Recherche**
+5. **Recherche**
 - Rechercher par (Information)
 - filtrer les résultats
 ## Structure du projet
@@ -83,7 +85,8 @@ Le projet est organisé en deux parties principales :
 - Stocke les contacts (JSON ou base de données)
 - Partagé entre les deux applications
 ## Licence
-Ce projet est sous licence MIT.\
+Ce projet est sous licence MIT.
+
 *MIT License*
 
 *Copyright (c) 2026 Manassé*
